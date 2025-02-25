@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
@@ -6,7 +6,7 @@
   Hi there, I'm 
   <a href="https://www.linkedin.com/in/viveksharma004/">Vivek</a>
   <img
-    src="https://github.com/viveksharma004/viveksharma004/giphy.gif"
+    src="https://github.com/viveksharma004/viveksharma004/blob/main/giphy.gif"
     alt="vivek"
     style="height: 25px; max-width: 25px; vertical-align: middle;"
   />
