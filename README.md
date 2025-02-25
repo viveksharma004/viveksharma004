@@ -61,17 +61,17 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
       <br>MySQL
     </td>
-<!--     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
-      <br>MongoDB
-    </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="55" height="55" />
-      <br>PostgreSQL
-    </td> -->
+      <img src="https://skillicons.dev/icons?i=powershell" alt="icon" width="55" height="55" />
+      <br>Powershell
+    </td>
   </tr>
 </table>
 </details>
@@ -88,16 +88,16 @@
       <br>React JS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>ExpressJS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="55" height="55" />
@@ -161,10 +161,10 @@
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | StudyNotion | [view](https://study-notion-vivek.vercel.app/) | [view](https://github.com/viveksharma004/Ed-Tech-Frontend) | React.js JavaScript mongoDB NodeJs | 
-| CartIt | [view](https://commercialstore.onrender.com/) | [view](https://github.com/viveksharma004/commercialStore) | React.js Javascript Redux Tailwind | 
-| MyPortfolio | [view](https://portfolio.onrender.com/) | [view](https://github.com/viveksharma004/portfolio) | React.js Typescript mongoDB Tailwind |
+| CartIt | [view](https://commercialstore.onrender.com/) | [view](https://github.com/viveksharma004/commercialStore) | React.js JavaScript Redux Tailwind | 
+| MyPortfolio | [view](https://portfolio.onrender.com/) | [view](https://github.com/viveksharma004/portfolio) | React.js TypeScript mongoDB Tailwind |
 | KnowImage | [view](https://know-your-image.onrender.com/) | [view](https://github.com/viveksharma004/geminiModelFrontend) | React.js JavaScript GeminiAI Node.js |
-| Resume Builder | [view](https://resumebuilder-9c8t.onrender.com/) | [view](https://github.com/viveksharma004/resumeBuilder) | ReactJs JavaScript Tailwind canvas |
+| Resume Builder | [view](https://resumebuilder-9c8t.onrender.com/) | [view](https://github.com/viveksharma004/resumeBuilder) | React.js JavaScript Tailwind canvas |
 
 </details>
 
