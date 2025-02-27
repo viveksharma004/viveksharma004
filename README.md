@@ -177,7 +177,7 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viveksharma004&theme=react">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viveksharma004&theme=react">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viveksharma004&theme=react&utcOffset=8">
-  <img height="169em" width="100%" src="https://github-readme-stats.vercel.app/api?username=viveksharma004&theme=react&hide_border=false&include_all_commits=true&count_private=true">
+<!--   <img height="169em" width="100%" src="https://github-readme-stats.vercel.app/api?username=viveksharma004&theme=react&hide_border=false&include_all_commits=true&count_private=true"> -->
   
 <p align="center">
 <!--    <a>
